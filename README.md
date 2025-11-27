@@ -1,6 +1,6 @@
 ## Hello ✌🏼
 
-My name is Emilio Licea from Guanajuato City. I'm currently a CS&Math undergraduate student ♾️💻
+My name is Emilio Licea from Guanajuato City. I'm currently a CS&Math undergraduate student. ♾️💻
 
 I´m an aspiring data scientist and like pretty much anything related with adjacent fields. 
 
