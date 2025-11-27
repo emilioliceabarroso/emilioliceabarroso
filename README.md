@@ -11,6 +11,7 @@ Skills:
 
 
 Feel free to reach and talk about anything related to math or computer science.
+
 Contact: emilio.licea@cimat.mx
 
 Fun facts: 
