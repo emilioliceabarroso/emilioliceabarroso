@@ -7,7 +7,7 @@ I´m an aspiring data scientist and like pretty much anything related with adjac
 Skills: 
 |Communication|Problem Solving|Curious|
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,apple)](https://skillicons.dev)
 
 
 Feel free to reach and talk about anything related to math or computer science.
